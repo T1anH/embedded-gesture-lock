@@ -1,9 +1,4 @@
 
-// Group members:
-// 1. Vaibhav Rouduri - vr2470
-// 2. Tian Huang - th2334
-// 3. Puneeth Kotha - pk3058
-
 #include <mbed.h>
 #include <vector>
 #include <cmath>
